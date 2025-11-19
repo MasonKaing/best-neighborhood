@@ -2,7 +2,7 @@ FINAL PROJECT BEST NEIGHBORHOOD
 
 Team NFH (Not From Here) <br>
 Mason Kaing (mak1051@pitt.edu) <br>
-Giovanni Bair (email) <br>
+Giovanni Bair (gmb139@pitt.edu) <br>
 Feiyang Ren (fer22@pitt.edu)
 
 Datasets used:
